@@ -178,3 +178,18 @@ section .container {
   border-top-right-radius: 20px;
   height: 258.997px;
 }
+
+.new .text {
+  padding: 20px;
+  background-color: #ffffff;
+  border: 0;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  text-align: left;
+  height: auto;
+}
+
+.new h3 {
+  display: inline;
+  font-size: 15px;
+}
