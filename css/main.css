@@ -229,14 +229,39 @@ section .container {
 }
 
 footer {
+  padding: 20px 20px 112px;
   background-color: #000000;
   color: #ffffff;
-  padding-bottom: 200px;
 }
 
 footer h2 {
   color: #313131;
   font-family: Nunito Sans;
   font-weight: 800;
-  padding: 20px;
+  margin-bottom: 20px;
+}
+
+footer h3 {
+  font-size: 13px;
+  line-height: 18px;
+}
+
+footer a {
+  font-size: 13px;
+  line-height: 18px;
+}
+
+footer .container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.contact {
+  background-color: blue;
+}
+
+.comms {
+  background-color: red;
 }
