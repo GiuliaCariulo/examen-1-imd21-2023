@@ -86,3 +86,19 @@ nav .container {
 a {
   text-decoration: none;
 }
+
+section {
+  padding: 60px 20px;
+}
+
+h2,
+h3 {
+  text-transform: uppercase;
+}
+
+h2 {
+  font-size: 50px;
+  font-weight: 300;
+  line-height: 1;
+  margin-bottom: 30px;
+}
