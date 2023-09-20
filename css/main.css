@@ -145,3 +145,23 @@ section .container {
   text-transform: uppercase;
   display: inline-block;
 }
+
+.tag {
+  padding: 20px;
+  background-color: #98fb00;
+  font-family: Nunito Sans;
+  font-size: 30px;
+  font-style: italic;
+  font-weight: 800;
+  line-height: 28px;
+  letter-spacing: -1.5px;
+  text-transform: uppercase;
+}
+
+.autor {
+  font-family: Noto Serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 15px;
+  margin-top: 20px;
+}
