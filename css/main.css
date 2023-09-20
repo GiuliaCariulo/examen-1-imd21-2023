@@ -102,3 +102,13 @@ h2 {
   line-height: 1;
   margin-bottom: 30px;
 }
+
+hr {
+  border: solid 3px #d7a1fd;
+}
+
+article .text {
+  padding: 20px 0 30px;
+  border: 1px solid #000000;
+  border-top: 0;
+}
