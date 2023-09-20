@@ -35,3 +35,8 @@ video {
   block-size: auto;
   vertical-align: text-top;
 }
+
+body {
+  max-width: 428px;
+  text-align: center;
+}
