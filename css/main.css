@@ -40,3 +40,7 @@ body {
   max-width: 428px;
   text-align: center;
 }
+
+.container {
+  display: flex;
+}
