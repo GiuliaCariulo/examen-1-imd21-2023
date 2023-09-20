@@ -123,10 +123,6 @@ h3 {
   font-size: 18px;
 }
 
-article {
-  margin-bottom: 30px;
-}
-
 section .container {
   display: flex;
   flex-direction: row;
@@ -136,6 +132,7 @@ section .container {
 
 .button {
   padding: 20px 30px;
+  margin-top: 30px;
   background-color: #000000;
   color: #d7a1fd;
   font-family: Nunito Sans;
@@ -177,6 +174,7 @@ section .container {
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
   height: 258.997px;
+  /* problème avec les images */
 }
 
 .new .text {
