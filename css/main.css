@@ -93,7 +93,8 @@ section {
 }
 
 h2,
-h3 {
+h3,
+.opportunities a {
   text-transform: uppercase;
 }
 
@@ -190,4 +191,28 @@ section .container {
 .new h3 {
   display: inline;
   font-size: 15px;
+}
+
+.opportunities {
+  padding: 0 0 60px;
+}
+
+.opportunities h2 {
+  background-color: #d7a1fd;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  letter-spacing: -2.5px;
+  padding: 20px;
+}
+
+.opportunities a {
+  padding: 20px 10px;
+  background-color: #98fb00;
+  border: 1px solid #000000;
+  font-family: Nunito Sans;
+  font-weight: 800;
+  font-size: 20px;
+  font-style: italic;
+  line-height: 1.2;
+  letter-spacing: -1px;
 }
