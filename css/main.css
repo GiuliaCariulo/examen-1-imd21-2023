@@ -46,7 +46,6 @@ body {
 
 header {
   background-color: #d7a1fd;
-  color: #ffffff;
   padding: 20px;
   text-transform: uppercase;
 }
@@ -67,8 +66,23 @@ h1 span {
 header p {
   font-size: 20px;
   line-height: 1.2;
+  color: #ffffff;
 }
 
-.container {
+nav {
+  color: #ffffff;
+  text-transform: uppercase;
+  background-color: #000000;
+  padding: 20px;
+}
+
+nav .container {
   display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 20px;
+}
+
+a {
+  text-decoration: none;
 }
