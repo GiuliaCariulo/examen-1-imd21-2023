@@ -143,4 +143,5 @@ section .container {
   font-style: italic;
   font-weight: 800;
   text-transform: uppercase;
+  display: inline-block;
 }
