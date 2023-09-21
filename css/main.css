@@ -57,6 +57,8 @@ h1 {
   font-size: 50px;
   font-weight: 300;
   margin: 0 0 10px;
+  position: relative;
+  right: 5px;
 }
 
 h1 span,
