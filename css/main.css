@@ -58,8 +58,9 @@ h1 {
   line-height: 50px;
   font-weight: 300;
   position: relative;
-  right: 5px;
-  margin-bottom: 8px;
+  bottom: 2px;
+  right: 6px;
+  margin-bottom: 7px;
 }
 
 h1 span,
@@ -72,8 +73,6 @@ header p {
   font-size: 20px;
   line-height: 24px;
   color: #ffffff;
-  position: relative;
-  bottom: 2px;
 }
 
 nav {
@@ -107,6 +106,7 @@ h2,
 h3,
 .opportunities a {
   text-transform: uppercase;
+  line-height: 24px;
 }
 
 h2 {
@@ -135,7 +135,6 @@ article .text {
 }
 h3 {
   font-size: 18px;
-  line-height: 24px;
 }
 
 section .container {
@@ -217,6 +216,8 @@ section .container {
 
 .opportunities {
   padding: 0 0 60px;
+  position: relative;
+  bottom: 1px;
 }
 
 .opportunities h2 {
@@ -229,6 +230,7 @@ section .container {
 }
 
 .opportunities a {
+  height: 112px;
   padding: 20px 10px;
   background-color: #98fb00;
   border: 1px solid #000000;
@@ -237,6 +239,7 @@ section .container {
   font-weight: 800;
   font-size: 20px;
   font-style: italic;
+  text-align: left;
   line-height: 1.2;
   letter-spacing: -1px;
   width: 50%;
