@@ -268,15 +268,5 @@ footer .container {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  align-items: center;
+  gap: 20px;
 }
-
-.contact {
-  background-color: blue;
-}
-
-.comms {
-  background-color: red;
-}
-
-/* IL ME VEUT QUOOI CE FOOTER DE SES MORTS  */
