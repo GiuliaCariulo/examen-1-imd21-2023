@@ -43,6 +43,7 @@ body {
   font-family: Noto Serif;
   font-weight: 300;
   font-size: 15px;
+  line-height: 1;
 }
 
 header {
@@ -55,7 +56,6 @@ h1 {
   color: #000000;
   font-size: 50px;
   font-weight: 300;
-  line-height: 1;
   margin: 0 0 10px;
 }
 
@@ -76,6 +76,11 @@ nav {
   text-transform: uppercase;
   background-color: #000000;
   padding: 20px;
+}
+
+nav a {
+  font-size: 18px;
+  line-height: 22px;
 }
 
 nav .container {
