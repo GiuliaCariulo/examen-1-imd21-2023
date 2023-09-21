@@ -191,7 +191,9 @@ section .container {
 
 .new h3 {
   display: inline;
+  font-style: italic;
   font-size: 15px;
+  line-height: 22px;
 }
 
 .opportunities {
